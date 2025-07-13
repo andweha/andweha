@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Andrew, a CS student at UT Austin<br><br>🧠 What excites me the most is software that someone will use —software that solves real problems especially in systems and social platforms<br><br>💻 What I've been up to:<br>- Implemented AC'97 audio playback for my systems class<br>- Connecting with my campus community as a POD Mentor at UT<br><br>🔧 Right now I'm exploring full-stack projects (Flask, APIs, React) and building accessibility tools like a media summarizer and a social entertainment platform. Eventually I want to learn more about ML!<br><br>📫 Please, don't hesitate to connect!
+👋 Hello! I'm Andrew, an aspiring SWE studying CS at the University of Texas at Austin<br><br>🧠 What excites me the most is software that someone will use —software that solves real problems especially in systems and social platforms<br><br>💻 What I've been up to:<br>- Implemented AC'97 audio playback for my systems class<br>- Connecting with my campus community as a POD Mentor at UT<br><br>🔧 Right now I'm exploring full-stack projects (Flask, APIs, React) and building accessibility tools like a media summarizer and a social entertainment platform. Eventually I want to learn more about ML!<br><br>📫 Please, don't hesitate to connect!
 
 
 ## 🌐 Socials:
